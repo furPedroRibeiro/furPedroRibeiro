@@ -8,6 +8,7 @@ About me:
 - 🎮 I like to play soccer, basketball and eletronic games.
 
 Skills:
+</br>
 <a href="https://github.com/furPedroRibeiro/vascoDaGamaWithPHP">![image](https://user-images.githubusercontent.com/84580101/159387002-e7b116fc-ef7f-4540-93dd-62f706a7f037.png)</a>
 <a href="https://github.com/furPedroRibeiro/atividade_geo">![image](https://user-images.githubusercontent.com/84580101/159386763-36762cf8-924f-4ad6-91ef-a7fdbb13a155.png)</a>
 <a href="">![image](https://user-images.githubusercontent.com/84580101/159386741-f8cc7544-577c-4b86-a31a-5fa8636d21b5.png)</a>
