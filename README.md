@@ -9,7 +9,7 @@ About me:
 
 Skills:
 
-![image](https://user-images.githubusercontent.com/84580101/159386471-f50d7d19-25f0-41ca-bc7e-d02599aa1a04.png)
+![image width:100px;](https://user-images.githubusercontent.com/84580101/159386471-f50d7d19-25f0-41ca-bc7e-d02599aa1a04.png)
 
    
 
