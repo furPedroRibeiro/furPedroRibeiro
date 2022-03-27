@@ -9,7 +9,7 @@ About me:
 
 Skills:
 </br>
-<a href="https://github.com/furPedroRibeiro/vascoDaGamaWithPHP"><img src="https://user-images.githubusercontent.com/84580101/159387002-e7b116fc-ef7f-4540-93dd-62f706a7f037.png" width: 7vw; heigth: 7vh; /></a>
+<a href="https://github.com/furPedroRibeiro/vascoDaGamaWithPHP">![image](https://user-images.githubusercontent.com/84580101/159387002-e7b116fc-ef7f-4540-93dd-62f706a7f037.png)</a>
 <a href="https://github.com/furPedroRibeiro/atividade_geo">![image](https://user-images.githubusercontent.com/84580101/159386763-36762cf8-924f-4ad6-91ef-a7fdbb13a155.png)</a>
 <a href="">![image](https://user-images.githubusercontent.com/84580101/159386741-f8cc7544-577c-4b86-a31a-5fa8636d21b5.png)</a>
 <a href="https://github.com/furPedroRibeiro/atividadePamOne">![image](https://user-images.githubusercontent.com/84580101/159386707-65af2abe-ff5c-4b53-82b5-3252ded71ba8.png)</a>
