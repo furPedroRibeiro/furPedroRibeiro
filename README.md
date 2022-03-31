@@ -14,6 +14,7 @@ Skills:
 <a href="">![image](https://user-images.githubusercontent.com/84580101/159386741-f8cc7544-577c-4b86-a31a-5fa8636d21b5.png)</a>
 <a href="https://github.com/furPedroRibeiro/atividadePamOne">![image](https://user-images.githubusercontent.com/84580101/159386707-65af2abe-ff5c-4b53-82b5-3252ded71ba8.png)</a>
 <a href="https://github.com/furPedroRibeiro/TPA">![image](https://user-images.githubusercontent.com/84580101/159386873-1d0610e3-2109-45df-815f-f9776abcc889.png)</a>
+<a href="">![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)</a>
 
 
 
