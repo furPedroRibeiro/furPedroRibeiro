@@ -50,8 +50,8 @@ This year I am developing my TCC project, which is called ARS LIBRI, feel free t
 
 
 # Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user={furPedroRibeiro}&theme={react-dark}"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={furpedroribeiro}&theme={github_dark}">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user={furPedroRibeiro}&theme={onedark}"/>
+<img src="https://github-readme-stats-sigma-five-git-masterrstaa-rickstaa.vercel.app/api?username={furpedroribeiro}&theme={dark}">
 
 
 
