@@ -52,7 +52,6 @@ This year I am developing my TCC project, which is called ARS LIBRI, feel free t
 # Stats
 <div style="display: flex; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furPedroRibeiro&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=furpedroribeiro&theme=radical">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user={furPedroRibeiro}&theme={radical}"/>
 </div>
 
