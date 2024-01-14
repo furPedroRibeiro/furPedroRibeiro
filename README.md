@@ -54,8 +54,8 @@ https://github.com/Ars-Libri
 
 # Stats
 <div style="display: flex; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furPedroRibeiro&theme=radical"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user={furPedroRibeiro}&theme={radical}"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=furPedroRibeiro&show_icons=true&count_private=true&hide_border=true&title_color=DBC96C&icon_color=dbc96c&text_color=FFF&bg_color=212121"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furPedroRibeiro&layout=compact&hide_border=true&title_color=DBC96C&text_color=FFF&bg_color=212121"/>
 </div>
 
 
