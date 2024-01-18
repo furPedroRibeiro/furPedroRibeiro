@@ -4,6 +4,7 @@ My name is Pedro Ribeiro, I'm 17 years old and I graduated in Systems Developmen
 I am currently working on a social project that involves technology, this project was my course completion work when I studied Systems Development at Etec in Peruíbe-SP, Brazil. The name of the project is ARS LIBRI and it is available at the links below:
 
 https://www.instagram.com/ars.libri/
+<br/>
 https://github.com/Ars-Libri
 
 # Skills
