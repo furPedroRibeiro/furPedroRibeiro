@@ -1,6 +1,8 @@
 # Hi everyone!!
 My name is Pedro Ribeiro, I'm 17 years old and I graduated in Systems Development at Etec de Peruíbe-SP, in the years 2021-2023. I really like web development and I'm looking to work in this area.
 
+Currently, I am studying Computer Engineering at USP (University of São Paulo), which is the best University in Latin America.
+
 I am currently working on a social project that involves technology, this project was my course completion work when I studied Systems Development at Etec in Peruíbe-SP, Brazil. The name of the project is ARS LIBRI and it is available at the links below:
 
 https://www.instagram.com/ars.libri/
