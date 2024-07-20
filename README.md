@@ -1,5 +1,5 @@
 # Hi everyone!!
-My name is Pedro Ribeiro, I'm 17 years old and I graduated in Systems Development at Etec de Peruíbe-SP, in the years 2021-2023. I really like web development and I'm looking to work in this area.
+My name is Pedro Ribeiro, I'm 18 years old and I graduated in Systems Development at Etec de Peruíbe-SP, in the years 2021-2023. I really like web development and I'm looking to work in this area.
 
 Currently, I am studying Computer Engineering at USP (University of São Paulo), which is the best University in Latin America.
 
