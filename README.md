@@ -60,6 +60,8 @@ https://github.com/Ars-Libri
 
 # Stats
 ![pedroalencarribeiro's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pedroalencarribeiro&theme=onedark&chart=pie)
+![pedroalencarribeiro's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pedroalencarribeiro&type=languages&theme=onedark&chart=bars)
+![pedroalencarribeiro's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pedroalencarribeiro&type=contributions&theme=onedark)
 
 
 
