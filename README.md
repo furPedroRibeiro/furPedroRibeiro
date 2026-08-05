@@ -31,6 +31,7 @@ https://github.com/Ars-Libri
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img alt="Static Badge" src="https://img.shields.io/badge/C-%230C93FF?style=for-the-badge&logo=C">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-%23FFFAE7?style=for-the-badge&logo=python">
 </div>
 
 ## Database
