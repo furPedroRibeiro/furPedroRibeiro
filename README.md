@@ -9,12 +9,12 @@ Em 2024 ingressei no bacharelado em Engenharia de Computação na USP de São Ca
  
 Também procuro desenvolver habilidades não técnicas ao participar de projetos extracurriculares, construir conexões profissionais e conhecer cada vez mais pessoas. Sigo buscando novas oportunidades para expandir meu portfólio e construir uma base sólida para minha carreira.
 
-### ARS LIBRI
+### 📃🎨 ARS LIBRI
 https://www.instagram.com/ars.libri/
 <br/>
 https://github.com/Ars-Libri
 
-# Skills
+# 🎯 Skills
 
 ## Stack
 
@@ -49,7 +49,7 @@ https://github.com/Ars-Libri
 </div>
 
 
-## Contacts
+# 📱 Contacts
 <div style="display:flex;">
     <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://instagram.com/pedrol.js"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -58,9 +58,11 @@ https://github.com/Ars-Libri
 </div>
 
 
-# Stats
+# 📈 Stats
 ![pedroalencarribeiro's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pedroalencarribeiro&theme=onedark&chart=pie)
+
 ![pedroalencarribeiro's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pedroalencarribeiro&type=languages&theme=onedark&chart=bars)
+
 ![pedroalencarribeiro's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pedroalencarribeiro&type=contributions&theme=onedark)
 
 
