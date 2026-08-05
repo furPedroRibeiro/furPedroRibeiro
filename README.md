@@ -1,4 +1,4 @@
-# 🌊 Seja muito bem vindo!
+## 🌊 Seja muito bem vindo!
 Estou na área de tecnologia há cerca de 5 anos, desde que ingressei na Etec de Peruíbe-SP no curso técnico de Desenvolvimento de Sistemas integrado ao Ensino Médio.
  
 Em 2023, concluí o curso apresentando meu TCC, o ARS LIBRI, um projeto voltado à cultura e acessibilidade que usa tecnologia para aproximar arte, cultura, educação social e pessoas.
@@ -14,9 +14,9 @@ https://www.instagram.com/ars.libri/
 <br/>
 https://github.com/Ars-Libri
 
-# 🎯 Skills
+## 🎯 Skills
 
-## Stack
+### Stack
 
 <div style="display:flex;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,13 +34,13 @@ https://github.com/Ars-Libri
     <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-%23FFFAE7?style=for-the-badge&logo=python">
 </div>
 
-## Database
+### Database
 <div style="display:flex;">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 
-## Design
+### Design
 <div style="display:flex;">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
@@ -49,7 +49,7 @@ https://github.com/Ars-Libri
 </div>
 
 
-# 📱 Contacts
+## 📱 Contacts
 <div style="display:flex;">
     <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://instagram.com/pedrol.js"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -58,7 +58,7 @@ https://github.com/Ars-Libri
 </div>
 
 
-# 📈 Stats
+## 📈 Stats
 ![pedroalencarribeiro's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pedroalencarribeiro&theme=onedark&chart=pie)
 
 ![pedroalencarribeiro's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pedroalencarribeiro&type=languages&theme=onedark&chart=bars)
