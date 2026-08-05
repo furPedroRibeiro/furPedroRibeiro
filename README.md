@@ -59,10 +59,7 @@ https://github.com/Ars-Libri
 
 
 # Stats
-<div style="display: flex; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedroalencarribeiro&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalencarribeiro&layout=donut&theme=tokyonight"/>
-</div>
+![pedroalencarribeiro's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=pedroalencarribeiro&theme=onedark&chart=pie)
 
 
 
