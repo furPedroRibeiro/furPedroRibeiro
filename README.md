@@ -1,4 +1,4 @@
-# Seja muito bem vindo!
+# 🌊 Seja muito bem vindo!
 Estou na área de tecnologia há cerca de 5 anos, desde que ingressei na Etec de Peruíbe-SP no curso técnico de Desenvolvimento de Sistemas integrado ao Ensino Médio.
  
 Em 2023, concluí o curso apresentando meu TCC, o ARS LIBRI, um projeto voltado à cultura e acessibilidade que usa tecnologia para aproximar arte, cultura, educação social e pessoas.
