@@ -1,10 +1,15 @@
-# Hi everyone!!
-My name is Pedro Ribeiro, I'm 18 years old and I graduated in Systems Development at Etec de Peruíbe-SP, in the years 2021-2023. I really like web development and I'm looking to work in this area.
+# Seja muito bem vindo!
+Estou na área de tecnologia há cerca de 5 anos, desde que ingressei na Etec de Peruíbe-SP no curso técnico de Desenvolvimento de Sistemas integrado ao Ensino Médio.
+ 
+Em 2023, concluí o curso apresentando meu TCC, o ARS LIBRI, um projeto voltado à cultura e acessibilidade que usa tecnologia para aproximar arte, cultura, educação social e pessoas.
+ 
+Além de ser um dos criadores do projeto, trabalhei no desenvolvimento front-end, projetando e dando vida ao site. Desde então o front-end foi a área que mais atuei nos últimos anos, trabalhando com HTML, CSS, JavaScript, React, Tailwind, Node.js e Git.
+ 
+Em 2024 ingressei no bacharelado em Engenharia de Computação na USP de São Carlos, em uma das mais prestigiadas escolas de Engenharia do país. Nesses 2 anos e meio de curso, busquei aprimorar meu conhecimento de hardware e engenharia e conhecer mais sobre a estrutura e organização do hardware e as camadas que possibilitam sua comunicação com o usuário, por exemplo.
+ 
+Também procuro desenvolver habilidades não técnicas ao participar de projetos extracurriculares, construir conexões profissionais e conhecer cada vez mais pessoas. Sigo buscando novas oportunidades para expandir meu portfólio e construir uma base sólida para minha carreira.
 
-Currently, I am studying Computer Engineering at USP (University of São Paulo), which is the best University in Latin America.
-
-I am currently working on a social project that involves technology, this project was my course completion work when I studied Systems Development at Etec in Peruíbe-SP, Brazil. The name of the project is ARS LIBRI and it is available at the links below:
-
+### ARS LIBRI
 https://www.instagram.com/ars.libri/
 <br/>
 https://github.com/Ars-Libri
@@ -59,8 +64,8 @@ https://github.com/Ars-Libri
 
 # Stats
 <div style="display: flex; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=furPedroRibeiro&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furPedroRibeiro&layout=donut&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=pedroalencarribeiro&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalencarribeiro&layout=donut&theme=tokyonight"/>
 </div>
 
 
